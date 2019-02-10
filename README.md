@@ -17,17 +17,16 @@
 	- Input in cmd: `python twin_comparison.py`
 	- Output: images in `HistTwinComparisonResult` folder
 ## Result
-Result based on my own parameters for these algorithms.
+Results are based on my own parameters for these algorithms.
 
-Histogram Intersect (Accuracy 75.80%, Recall 69.84%)
+- Histogram Intersect (Accuracy 75.80%, Recall 69.84%)
 ![image](hist.jpg)
 
-Moment Invariant (Accuracy 67.26%, Recall 71.43%)
+- Moment Invariant (Accuracy 67.26%, Recall 71.43%)
 ![image](Humoment.jpg)
 
-Motion Vector(Accuracy 34.57%, Recall 58.73%)
+- Motion Vector(Accuracy 34.57%, Recall 58.73%)
 ![image](Opt.jpg)
 
-Twin Comparison Based on Histogram(Accuracy 34.57%, Recall 57.14%)
-
+- Twin Comparison Based on Histogram(Accuracy 34.57%, Recall 57.14%)
 ![image](TwinComparison.jpg)
